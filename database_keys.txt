@@ -1,0 +1,1 @@
+nama_user|hash_sha256_dari_key|waktu_expired_epoch
